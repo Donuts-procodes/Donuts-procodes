@@ -4,11 +4,11 @@
 I’m a student learning Python and exploring various programming languages. Here’s a quick overview:
 
 ## 🚀 About Me
-
-- **Learning**: Python 🐍
-- **Languages**:
+ **Languages**:
   - HTML 🌐
   - CSS 🎨
   - JavaScript ⚙️
   - C 💾
   - C++ 💻
+  - Python 🐍
+  - MySQL
