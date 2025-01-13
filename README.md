@@ -11,4 +11,5 @@ I’m a student learning Python and exploring various programming languages. Her
   - C 💾
   - C++ 💻
   - Python 🐍
-  - MySQL
+  - MySQL 📚
+  - Machine learning ⚙️
