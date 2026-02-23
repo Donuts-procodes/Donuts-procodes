@@ -7,14 +7,9 @@ Hi, I'm **@Donuts-procodes**, a student passionate about programming, AI/ML, and
 - **Frontend**: HTML 🌐 | CSS 🎨 | JavaScript ⚙️ | React + Vite ⚡
 - **Backend**: Python 🐍 | Django 🚀 | Flask 🔥
 - **Database**: MySQL 📚 | SQLite 🗄️
-- **Programming Languages**: C 💾 | C++ 💻 | Python 🐍
+- **Programming Languages**: C 💾 | C++ 💻 | Python 🐍 | Rust 🦀 | Java 🍵
 - **AI/ML**: Machine Learning 🤖 | Data Science 📊
 - **Tools & DevOps**: GitHub 🛠️ | Docker 🐳
-
-### 📌 What I’m Working On
-- An **AI/ML-powered project** using Flask & React.
-- A **VS Code-like online code editor** built with React & Monaco API.
-- Learning **Electron** to create cross-platform desktop apps.
 
 ### 📫 Connect with Me
 - **GitHub**: [@Donuts-procodes](https://github.com/Donuts-procodes)
